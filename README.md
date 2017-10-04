@@ -51,7 +51,7 @@ Loop through the two arrays provided (`bands` and `vegetables`) and output each 
 
 ### Screen Shots
 
-![boybands](./boybands.PNG)
+![boybands](./images/boybands.PNG)
 
 ### How do I run this project locally?
 
